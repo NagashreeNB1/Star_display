@@ -22,7 +22,7 @@ int displayStar(int n)
         {
             if(j>=n-(i-1)&& j<=n+(i-1))
             {
-                printf("*");
+                printf("i");
             }
             else
             {
